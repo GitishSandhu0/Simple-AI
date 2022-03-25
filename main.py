@@ -91,6 +91,6 @@ if __name__=="__main__" :
             speak("Enjoy Studying! Even if that hurts")
 
         elif 'miss you' in query:
-            speak("Aw that made my day!")
+            speak("Well i don't miss you. So Fuck you!")
             
 
