@@ -85,10 +85,6 @@ if __name__=="__main__" :
             results = wikipedia.summary(query, sentences=2)
             print(results)
             speak (results)
-        
-        elif 'open snap homework' in query:
-            webbrowser.open('https://web.snapworks.me/parent-students/activities')
-            speak("Enjoy Studying! Even if that hurts")
 
         elif 'miss you' in query:
             speak("Well i don't miss you. So Fuck you!")
